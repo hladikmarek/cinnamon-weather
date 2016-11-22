@@ -292,7 +292,7 @@ msgstr "J"
 
 #: applet.js:1056
 msgid "SW"
-msgstr "JW"
+msgstr "JZ"
 
 #: applet.js:1056
 msgid "W"
@@ -432,7 +432,7 @@ msgstr "Zjednodušené symbolické ikony"
 
 #. cinnamon-weather->metadata.json->description
 msgid "View your local weather forecast"
-msgstr "Zobrazit lokální předpověď počasí"
+msgstr "Zobrazovač lokální předpovědi počasí"
 
 #. cinnamon-weather->metadata.json->name
 msgid "Weather"
